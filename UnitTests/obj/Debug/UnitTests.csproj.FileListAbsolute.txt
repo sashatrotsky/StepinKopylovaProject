@@ -1,0 +1,400 @@
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ApplicationInsights.config
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\csc.exe
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\vbc.exe
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\UnitTests.dll.config
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\UnitTests.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Castle.Core.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Domain.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Moq.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Ninject.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.Helpers.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.Mvc.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.Razor.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.WebPages.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\WebActivatorEx.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\WebUI.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Domain.pdb
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\WebUI.pdb
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Castle.Core.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Moq.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Ninject.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.Helpers.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.Mvc.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.Razor.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.WebPages.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\obj\Debug\UnitTests.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\UnitTests\obj\Debug\UnitTests.pdb
+F:\Solution2\UnitTests\bin\Debug\ApplicationInsights.config
+F:\Solution2\UnitTests\bin\Debug\roslyn\csc.exe
+F:\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Solution2\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\Solution2\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\Solution2\UnitTests\bin\Debug\roslyn\vbc.exe
+F:\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+F:\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\Solution2\UnitTests\bin\Debug\UnitTests.dll.config
+F:\Solution2\UnitTests\bin\Debug\UnitTests.dll
+F:\Solution2\UnitTests\bin\Debug\UnitTests.pdb
+F:\Solution2\UnitTests\bin\Debug\Castle.Core.dll
+F:\Solution2\UnitTests\bin\Debug\Domain.dll
+F:\Solution2\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Solution2\UnitTests\bin\Debug\Moq.dll
+F:\Solution2\UnitTests\bin\Debug\Ninject.dll
+F:\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.dll
+F:\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+F:\Solution2\UnitTests\bin\Debug\System.Web.Helpers.dll
+F:\Solution2\UnitTests\bin\Debug\System.Web.Mvc.dll
+F:\Solution2\UnitTests\bin\Debug\System.Web.Razor.dll
+F:\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Solution2\UnitTests\bin\Debug\System.Web.WebPages.dll
+F:\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Solution2\UnitTests\bin\Debug\WebActivatorEx.dll
+F:\Solution2\UnitTests\bin\Debug\WebUI.dll
+F:\Solution2\UnitTests\bin\Debug\Domain.pdb
+F:\Solution2\UnitTests\bin\Debug\WebUI.pdb
+F:\Solution2\UnitTests\bin\Debug\Castle.Core.xml
+F:\Solution2\UnitTests\bin\Debug\Moq.xml
+F:\Solution2\UnitTests\bin\Debug\Ninject.xml
+F:\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.xml
+F:\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+F:\Solution2\UnitTests\bin\Debug\System.Web.Helpers.xml
+F:\Solution2\UnitTests\bin\Debug\System.Web.Mvc.xml
+F:\Solution2\UnitTests\bin\Debug\System.Web.Razor.xml
+F:\Solution2\UnitTests\bin\Debug\System.Web.WebPages.xml
+F:\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Solution2\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+F:\Solution2\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+F:\Solution2\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+F:\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+F:\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+F:\Solution2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\Solution2\UnitTests\obj\Debug\UnitTests.dll
+F:\Solution2\UnitTests\obj\Debug\UnitTests.pdb
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ApplicationInsights.config
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\csc.exe
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\vbc.exe
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\LocalDBAppData.mdf
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\LocalDBAppData_log.ldf
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\UnitTests.dll.config
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\UnitTests.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\UnitTests.pdb
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Castle.Core.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Domain.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Moq.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Ninject.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.Helpers.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.Mvc.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.Razor.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\WebActivatorEx.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\WebUI.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\EntityFramework.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Domain.pdb
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\WebUI.pdb
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Castle.Core.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Moq.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Ninject.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.Helpers.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.Mvc.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.Razor.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\EntityFramework.xml
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Новая папка (2)\Solution2\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Новая папка (2)\Solution2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Новая папка (2)\Solution2\UnitTests\obj\Debug\UnitTests.dll
+D:\Новая папка (2)\Solution2\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ApplicationInsights.config
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\csc.exe
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Moq.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Ninject.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\WebUI.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Moq.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Ninject.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\ApplicationInsights.config
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\csc.exe
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\LocalDBAppData.mdf
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Domain.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Moq.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Ninject.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\WebUI.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Domain.pdb
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Moq.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Ninject.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\For Paul\Desktop\Solution2\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\For Paul\Desktop\Solution2\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ApplicationInsights.config
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\csc.exe
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Moq.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Ninject.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\WebUI.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Moq.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Ninject.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Solution2\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\madam\Desktop\Solution2\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\ApplicationInsights.config
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\csc.exe
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\vbc.exe
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\UnitTests.dll.config
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Moq.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Ninject.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\WebUI.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Moq.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Ninject.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\madam\Desktop\Solution2 — копия\UnitTests\obj\Debug\UnitTests.pdb

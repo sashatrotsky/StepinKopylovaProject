@@ -1,0 +1,332 @@
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\Domain.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\Domain.pdb
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.Helpers.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.Mvc.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.Razor.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.WebPages.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.Helpers.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.Mvc.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.Razor.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.WebPages.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\obj\Debug\Domain.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\Domain\obj\Debug\Domain.pdb
+F:\Solution2\Domain\bin\Debug\Domain.dll
+F:\Solution2\Domain\bin\Debug\Domain.pdb
+F:\Solution2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Solution2\Domain\bin\Debug\System.Web.Helpers.dll
+F:\Solution2\Domain\bin\Debug\System.Web.Mvc.dll
+F:\Solution2\Domain\bin\Debug\System.Web.Razor.dll
+F:\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Solution2\Domain\bin\Debug\System.Web.WebPages.dll
+F:\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Solution2\Domain\bin\Debug\System.Web.Helpers.xml
+F:\Solution2\Domain\bin\Debug\System.Web.Mvc.xml
+F:\Solution2\Domain\bin\Debug\System.Web.Razor.xml
+F:\Solution2\Domain\bin\Debug\System.Web.WebPages.xml
+F:\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Solution2\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+F:\Solution2\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+F:\Solution2\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+F:\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+F:\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+F:\Solution2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+F:\Solution2\Domain\obj\Debug\Domain.dll
+F:\Solution2\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\Domain.dll.config
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\Domain.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\Domain.pdb
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\EntityFramework.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\EntityFramework.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\obj\Debug\Domain.dll
+C:\Users\madam\OneDrive\Documents\Solution2\Domain\obj\Debug\Domain.pdb
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\LocalDBAppData.mdf
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\LocalDBAppData_log.ldf
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\Domain.dll.config
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\Domain.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\Domain.pdb
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\EntityFramework.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.Helpers.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.Mvc.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.Razor.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.WebPages.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\EntityFramework.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.Helpers.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.Mvc.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.Razor.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.WebPages.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Новая папка (2)\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Новая папка (2)\Solution2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Новая папка (2)\Solution2\Domain\obj\Debug\Domain.dll
+D:\Новая папка (2)\Solution2\Domain\obj\Debug\Domain.pdb
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\Domain.dll.config
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\Domain.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\Domain.pdb
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\EntityFramework.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\EntityFramework.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\For Paul\Desktop\Solution2\Domain\obj\Debug\Domain.dll
+C:\Users\For Paul\Desktop\Solution2\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\Domain.dll.config
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\obj\Debug\Domain.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\Domain.dll.config
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\Solution2\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Solution2\Domain\obj\Debug\Domain.dll
+C:\Users\madam\Desktop\Solution2\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\Domain.dll.config
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Solution2 — копия\Domain\obj\Debug\Domain.dll
+C:\Users\madam\Desktop\Solution2 — копия\Domain\obj\Debug\Domain.pdb
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.dll.config
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.pdb
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.dll.config
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\LocalDBAppData.mdf
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.dll.config
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Domain.pdb
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\Desktop\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.dll
+C:\Users\madam\Desktop\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\Domain\obj\Debug\Domain.pdb
+C:\Users\madam\Desktop\репозитории\базовые классы\Solution2 — копия\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\репозитории\базовые классы\Solution2 — копия\Domain\obj\Debug\Domain.dll
+C:\Users\madam\Desktop\репозитории\базовые классы\Solution2 — копия\Domain\obj\Debug\Domain.pdb

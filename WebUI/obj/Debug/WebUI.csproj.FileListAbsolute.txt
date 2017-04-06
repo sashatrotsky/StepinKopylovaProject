@@ -1,0 +1,746 @@
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\ApplicationInsights.config
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\csc.exe
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\vbc.exe
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\WebUI.dll.config
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\WebUI.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\WebUI.pdb
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Castle.Core.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Domain.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Essential.Templating.Common.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.Web.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Moq.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Ninject.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Ninject.Web.Common.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Ninject.Web.Mvc.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Helpers.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Mvc.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Mvc.Extensions.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Razor.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Webpages.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\WebActivatorEx.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Domain.pdb
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Castle.Core.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Essential.Templating.Common.pdb
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.Web.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Moq.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Ninject.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Ninject.Web.Common.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\Ninject.Web.Mvc.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Mvc.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Mvc.Extensions.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Razor.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Webpages.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\System.Web.Helpers.xml
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\ru\System.Web.Mvc.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\ru\System.Web.Razor.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\ru\System.Web.Webpages.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\bin\ru\System.Web.Helpers.resources.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\obj\Debug\WebUI.dll
+c:\users\madam\onedrive\documents\visual studio 2015\Projects\Solution2\WebUI\obj\Debug\WebUI.pdb
+F:\Solution2\WebUI\bin\ApplicationInsights.config
+F:\Solution2\WebUI\bin\roslyn\csc.exe
+F:\Solution2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Solution2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Solution2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Solution2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\Solution2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Solution2\WebUI\bin\roslyn\vbc.exe
+F:\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe
+F:\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\Solution2\WebUI\bin\WebUI.dll.config
+F:\Solution2\WebUI\bin\WebUI.dll
+F:\Solution2\WebUI\bin\WebUI.pdb
+F:\Solution2\WebUI\bin\Castle.Core.dll
+F:\Solution2\WebUI\bin\Domain.dll
+F:\Solution2\WebUI\bin\Essential.Templating.Common.dll
+F:\Solution2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+F:\Solution2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Solution2\WebUI\bin\Microsoft.AI.Web.dll
+F:\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+F:\Solution2\WebUI\bin\Microsoft.ApplicationInsights.dll
+F:\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Solution2\WebUI\bin\Moq.dll
+F:\Solution2\WebUI\bin\Ninject.dll
+F:\Solution2\WebUI\bin\Ninject.Web.Common.dll
+F:\Solution2\WebUI\bin\Ninject.Web.Mvc.dll
+F:\Solution2\WebUI\bin\System.Web.Helpers.dll
+F:\Solution2\WebUI\bin\System.Web.Mvc.dll
+F:\Solution2\WebUI\bin\System.Web.Mvc.Extensions.dll
+F:\Solution2\WebUI\bin\System.Web.Razor.dll
+F:\Solution2\WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\Solution2\WebUI\bin\System.Web.Webpages.dll
+F:\Solution2\WebUI\bin\System.Web.Webpages.Razor.dll
+F:\Solution2\WebUI\bin\WebActivatorEx.dll
+F:\Solution2\WebUI\bin\Domain.pdb
+F:\Solution2\WebUI\bin\Castle.Core.xml
+F:\Solution2\WebUI\bin\Essential.Templating.Common.pdb
+F:\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+F:\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Solution2\WebUI\bin\Microsoft.AI.Web.xml
+F:\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+F:\Solution2\WebUI\bin\Microsoft.ApplicationInsights.xml
+F:\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Solution2\WebUI\bin\Moq.xml
+F:\Solution2\WebUI\bin\Ninject.xml
+F:\Solution2\WebUI\bin\Ninject.Web.Common.xml
+F:\Solution2\WebUI\bin\Ninject.Web.Mvc.xml
+F:\Solution2\WebUI\bin\System.Web.Mvc.xml
+F:\Solution2\WebUI\bin\System.Web.Mvc.Extensions.xml
+F:\Solution2\WebUI\bin\System.Web.Razor.xml
+F:\Solution2\WebUI\bin\System.Web.Webpages.xml
+F:\Solution2\WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\Solution2\WebUI\bin\System.Web.Webpages.Razor.xml
+F:\Solution2\WebUI\bin\System.Web.Helpers.xml
+F:\Solution2\WebUI\bin\ru\System.Web.Mvc.resources.dll
+F:\Solution2\WebUI\bin\ru\System.Web.Razor.resources.dll
+F:\Solution2\WebUI\bin\ru\System.Web.Webpages.resources.dll
+F:\Solution2\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+F:\Solution2\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+F:\Solution2\WebUI\bin\ru\System.Web.Helpers.resources.dll
+F:\Solution2\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+F:\Solution2\WebUI\obj\Debug\WebUI.dll
+F:\Solution2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\ApplicationInsights.config
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\csc.exe
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\vbc.exe
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\LocalDBAppData.mdf
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\LocalDBAppData_log.ldf
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\WebUI.dll.config
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\WebUI.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\WebUI.pdb
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Castle.Core.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Domain.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\EntityFramework.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Essential.Templating.Common.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Moq.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Ninject.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Mvc.Extensions.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Razor.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Webpages.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\WebActivatorEx.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Domain.pdb
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Castle.Core.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\EntityFramework.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Essential.Templating.Common.pdb
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Moq.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Ninject.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Mvc.Extensions.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Razor.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Webpages.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\OneDrive\Documents\Solution2\WebUI\obj\Debug\WebUI.pdb
+D:\Новая папка (2)\Solution2\WebUI\bin\ApplicationInsights.config
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\csc.exe
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\vbc.exe
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Новая папка (2)\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Новая папка (2)\Solution2\WebUI\bin\LocalDBAppData.mdf
+D:\Новая папка (2)\Solution2\WebUI\bin\LocalDBAppData_log.ldf
+D:\Новая папка (2)\Solution2\WebUI\bin\WebUI.dll.config
+D:\Новая папка (2)\Solution2\WebUI\bin\WebUI.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\WebUI.pdb
+D:\Новая папка (2)\Solution2\WebUI\bin\Castle.Core.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Domain.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\EntityFramework.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\EntityFramework.SqlServer.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Essential.Templating.Common.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.Web.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Moq.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Ninject.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Ninject.Web.Common.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Ninject.Web.Mvc.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Helpers.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Mvc.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Mvc.Extensions.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Razor.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Webpages.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\WebActivatorEx.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\Domain.pdb
+D:\Новая папка (2)\Solution2\WebUI\bin\Castle.Core.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\EntityFramework.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\EntityFramework.SqlServer.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Essential.Templating.Common.pdb
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.Web.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Moq.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Ninject.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Ninject.Web.Common.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\Ninject.Web.Mvc.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Mvc.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Mvc.Extensions.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Razor.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Webpages.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\System.Web.Helpers.xml
+D:\Новая папка (2)\Solution2\WebUI\bin\ru\System.Web.Mvc.resources.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\ru\System.Web.Razor.resources.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\ru\System.Web.Webpages.resources.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Новая папка (2)\Solution2\WebUI\bin\ru\System.Web.Helpers.resources.dll
+D:\Новая папка (2)\Solution2\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Новая папка (2)\Solution2\WebUI\obj\Debug\WebUI.dll
+D:\Новая папка (2)\Solution2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\ApplicationInsights.config
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\csc.exe
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\vbc.exe
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\WebUI.dll.config
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\WebUI.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\WebUI.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Castle.Core.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Domain.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\EntityFramework.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Essential.Templating.Common.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Moq.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Ninject.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Mvc.Extensions.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Razor.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Webpages.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\WebActivatorEx.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Domain.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Castle.Core.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\EntityFramework.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Essential.Templating.Common.pdb
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Moq.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Ninject.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Mvc.Extensions.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Razor.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Webpages.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\madam\Desktop\Новая папка (4)\Solution2\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\ApplicationInsights.config
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\csc.exe
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\vbc.exe
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\LocalDBAppData.mdf
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\LocalDBAppData_log.ldf
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\WebUI.dll.config
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\WebUI.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\WebUI.pdb
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Castle.Core.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Domain.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\EntityFramework.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Essential.Templating.Common.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Moq.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Ninject.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Mvc.Extensions.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Razor.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Webpages.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\WebActivatorEx.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Domain.pdb
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Castle.Core.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\EntityFramework.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Essential.Templating.Common.pdb
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Moq.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Ninject.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Mvc.Extensions.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Razor.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Webpages.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\For Paul\Desktop\Solution2\WebUI\obj\Debug\WebUI.dll
+C:\Users\For Paul\Desktop\Solution2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Solution2\WebUI\bin\ApplicationInsights.config
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\csc.exe
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\vbc.exe
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\madam\Desktop\Solution2\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\Desktop\Solution2\WebUI\bin\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Solution2\WebUI\bin\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Solution2\WebUI\bin\WebUI.dll.config
+C:\Users\madam\Desktop\Solution2\WebUI\bin\WebUI.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\WebUI.pdb
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Castle.Core.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Domain.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\EntityFramework.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Essential.Templating.Common.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Moq.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Ninject.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Mvc.Extensions.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Razor.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Webpages.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\WebActivatorEx.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Domain.pdb
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Castle.Core.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\EntityFramework.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Essential.Templating.Common.pdb
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Moq.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Ninject.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Mvc.Extensions.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Razor.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Webpages.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Solution2\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Solution2\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Solution2\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\Desktop\Solution2\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\ApplicationInsights.config
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\csc.exe
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\vbc.exe
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\LocalDBAppData.mdf
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\WebUI.dll.config
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\WebUI.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\WebUI.pdb
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Castle.Core.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Domain.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\EntityFramework.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Essential.Templating.Common.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Moq.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Ninject.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Helpers.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Mvc.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Mvc.Extensions.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Razor.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Webpages.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\WebActivatorEx.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Domain.pdb
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Castle.Core.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\EntityFramework.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Essential.Templating.Common.pdb
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Moq.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Ninject.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Mvc.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Mvc.Extensions.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Razor.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Webpages.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\System.Web.Helpers.xml
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\Desktop\Solution2 — копия\WebUI\obj\Debug\WebUI.pdb
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ApplicationInsights.config
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\csc.exe
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\vbc.exe
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\LocalDBAppData.mdf
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\LocalDBAppData_log.ldf
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebUI.dll.config
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebUI.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebUI.pdb
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Castle.Core.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Domain.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Essential.Templating.Common.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Moq.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Helpers.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.Extensions.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebActivatorEx.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Domain.pdb
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Castle.Core.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Essential.Templating.Common.pdb
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Moq.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.Extensions.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Helpers.xml
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.dll
+C:\Users\1\Desktop\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\Desktop\Новая папка (9)\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ApplicationInsights.config
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\csc.exe
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\vbc.exe
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\LocalDBAppData.mdf
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\LocalDBAppData_log.ldf
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebUI.dll.config
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebUI.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebUI.pdb
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Castle.Core.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Domain.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Essential.Templating.Common.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Moq.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Helpers.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.Extensions.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Razor.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\WebActivatorEx.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Domain.pdb
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Castle.Core.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Essential.Templating.Common.pdb
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Moq.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Mvc.Extensions.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Razor.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\System.Web.Helpers.xml
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\madam\Desktop\вки\сайт\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\madam\Desktop\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\Desktop\репозитории\С КОРЗИНОЧКОЙ\Solution2 — копия\WebUI\obj\Debug\WebUI.pdb
+C:\Users\madam\Desktop\репозитории\базовые классы\Solution2 — копия\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\madam\Desktop\репозитории\базовые классы\Solution2 — копия\WebUI\obj\Debug\WebUI.dll
+C:\Users\madam\Desktop\репозитории\базовые классы\Solution2 — копия\WebUI\obj\Debug\WebUI.pdb
