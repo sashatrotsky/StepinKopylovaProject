@@ -92,12 +92,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstract\BaseCrud.cs" />
     <Compile Include="Abstract\BaseEntities.cs" />
-    <Compile Include="Concrete\EFCore.cs" />
-    <Compile Include="Concrete\EFDbContext.cs" />
     <Compile Include="Entities\Cart.cs" />
-    <Compile Include="Entities\item.cs" />
+    <Compile Include="Entities\Item.cs" />
     <Compile Include="Entities\Order.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -106,7 +103,9 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Concrete\" />
+  </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
       <Visible>False</Visible>

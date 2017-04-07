@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Domain.Entities;
 using System.Data.Entity;
 
-namespace Domain.Abstract
+namespace Repository.Repositories
 {
     public class CartRepository : RepositoryBase<Cart>, ICartRepository
     {

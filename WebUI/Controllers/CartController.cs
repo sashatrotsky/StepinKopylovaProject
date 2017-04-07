@@ -6,6 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using WebUI.Models;
+using Repository.Repositories;
 
 namespace WebUI.Controllers
 {
@@ -26,22 +27,10 @@ namespace WebUI.Controllers
             });
         }
 
-     /*  public RedirectToRouteResult AddToCart(Cart cart, int itemID, string returnUrl)
-        {
-           item Item = repository.items
-               .FirstOrDefault(b => b.itemId == itemID);
-
-            if (Item != null)
-            {
-                cart.AddItem(Item, 1);
-            }
-
-            return RedirectToAction("Index", new { returnUrl });
-        }*/
 
         public RedirectToRouteResult RemoveFromCart(Cart cart, int ItemID, string returnUrl)
         {
-            item Item = repository.items
+            Item Item = repository.items
                 .FirstOrDefault(b => b.itemId == ItemID);
 
             if (Item != null)

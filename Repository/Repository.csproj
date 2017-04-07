@@ -49,7 +49,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Repositories\BaseCrud.cs" />
     <Compile Include="Repositories\CartRepository.cs" />
+    <Compile Include="Repositories\EFCore.cs" />
+    <Compile Include="Repositories\EFDbContext.cs" />
     <Compile Include="Repositories\ICartRepository.cs" />
     <Compile Include="Repositories\IItemRepository.cs" />
     <Compile Include="Repositories\IOrderRepository.cs" />

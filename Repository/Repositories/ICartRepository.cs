@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
 
-namespace Domain.Abstract
+namespace Repository.Repositories
 {
-    public interface ICartRepository:IRepositoryBase<Cart>
+    public interface ICartRepository: IRepositoryBase<Cart>
     {
     }
 }

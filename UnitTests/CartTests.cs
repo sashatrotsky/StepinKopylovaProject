@@ -18,8 +18,8 @@ namespace UnitTests
         public void Can_Add_New_Lines()
         {
             // Организация
-            item item1 = new item { itemId = 1, name = "item1" };
-            item item2 = new item { itemId = 2, name = "item2" };
+            Item item1 = new Item { itemId = 1, name = "item1" };
+            Item item2 = new Item { itemId = 2, name = "item2" };
 
             Cart cart = new Cart();
 
@@ -38,8 +38,8 @@ namespace UnitTests
         public void Can_Add_Quantity_For_Existing_Lines()
         {
             // Организация
-            item item1 = new item { itemId = 1, name = "item1" };
-            item item2 = new item { itemId = 2, name = "item2" };
+            Item item1 = new Item { itemId = 1, name = "item1" };
+            Item item2 = new Item { itemId = 2, name = "item2" };
 
             Cart cart = new Cart();
 
@@ -59,9 +59,9 @@ namespace UnitTests
         public void Can_Remove_Line()
         {
             // Организация
-            item item1 = new item { itemId = 1, name = "item1" };
-            item item2 = new item { itemId = 2, name = "item2" };
-            item item3 = new item { itemId = 3, name = "item3" };
+            Item item1 = new Item { itemId = 1, name = "item1" };
+            Item item2 = new Item { itemId = 2, name = "item2" };
+            Item item3 = new Item { itemId = 3, name = "item3" };
 
             Cart cart = new Cart();
 
@@ -81,8 +81,8 @@ namespace UnitTests
         public void Calculate_Cart_Total()
         {
             // Организация
-            item item1 = new item {  itemId = 1, name = "item1", price = 100 };
-            item item2 = new item {  itemId = 2, name = "item2", price = 55 };
+            Item item1 = new Item {  itemId = 1, name = "item1", price = 100 };
+            Item item2 = new Item {  itemId = 2, name = "item2", price = 55 };
 
             Cart cart = new Cart();
 
@@ -100,8 +100,8 @@ namespace UnitTests
         public void Can_Clear_Contents()
         {
             // Организация
-            item item1 = new item { itemId = 1, name = "item1", price = 100 };
-            item item2 = new item { itemId = 2, name = "item2", price = 55 };
+            Item item1 = new Item { itemId = 1, name = "item1", price = 100 };
+            Item item2 = new Item { itemId = 2, name = "item2", price = 55 };
 
             Cart cart = new Cart();
 
@@ -120,8 +120,8 @@ namespace UnitTests
         public void Can_Add_To_Cart()
         {
             Mock<IItemRepository> mock = new Mock<IItemRepository>();
-            mock.Setup(m => m.items).Returns(new List<item>{
-                new item { itemId = 1, name = "item1", type = "type1"}
+            mock.Setup(m => m.items).Returns(new List<Item>{
+                new Item { itemId = 1, name = "item1", type = "type1"}
             }.AsQueryable());
 
             Cart cart = new Cart();
@@ -139,8 +139,8 @@ namespace UnitTests
         public void Adding_Book_To_Cart_Goes_To_Cart_Screen()
         {
             Mock<IItemRepository> mock = new Mock<IItemRepository>();
-            mock.Setup(m => m.items).Returns(new List<item>{
-                new item {itemId = 1, name = "item1", type = "type1"}
+            mock.Setup(m => m.items).Returns(new List<Item>{
+                new Item {itemId = 1, name = "item1", type = "type1"}
             }.AsQueryable());
 
             Cart cart = new Cart();

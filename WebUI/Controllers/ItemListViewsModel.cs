@@ -9,7 +9,7 @@ namespace WebUI.Controllers
 {
     internal class ItemListViewsModel
     {
-        public IEnumerable<item> items { get; set; }
+        public IEnumerable<Item> items { get; set; }
         public PagingInfo PagingInfo { get; set; }
         public string CurrentType { get; set; }
     }

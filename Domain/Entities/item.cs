@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-   public class item
+   public class Item
     {
         public int Id { get; set; }
         public int itemId { get; set; }
@@ -16,7 +16,7 @@ namespace Domain.Entities
         public int price { get; set; }
         public ICollection<Cart> Carts { get; set; }
 
-        public item()
+        public Item()
         {
             Carts = new List<Cart>();
         }

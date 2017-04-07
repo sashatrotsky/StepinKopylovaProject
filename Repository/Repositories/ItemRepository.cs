@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Domain.Entities;
 using System.Data.Entity;
 
-namespace Domain.Abstract
+namespace Repository.Repositories
 {
-    public class ItemRepository : RepositoryBase<item>, IItemRepository
+    public class ItemRepository : RepositoryBase<Item>, IItemRepository
     {
 
         public ItemRepository(DbContext context)
