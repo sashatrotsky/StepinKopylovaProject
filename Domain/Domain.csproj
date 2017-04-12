@@ -92,7 +92,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstract\EntitiesBase.cs" />
+    <Compile Include="Abstract\BaseEntities.cs" />
     <Compile Include="Entities\Cart.cs" />
     <Compile Include="Entities\Item.cs" />
     <Compile Include="Entities\Order.cs" />

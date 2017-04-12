@@ -11,7 +11,7 @@ namespace Repository.Repositories
     public class OrderRepository : RepositoryBase<Order>, IOrderRepository
     {
 
-        public OrderRepository(DbContext context) : base(context)
+        public OrderRepository(DbContext context)
         {
         }
 

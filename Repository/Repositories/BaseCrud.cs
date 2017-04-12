@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.Entities;
-using Domain.Abstract;
 
 namespace Repository.Repositories
 {
@@ -20,47 +19,41 @@ namespace Repository.Repositories
 
     }
 
-    public abstract class RepositoryBase<T> where T : EntitiesBase
+    public abstract class RepositoryBase<T> where T : class
     {
-        protected RepositoryBase(DbContext context)
-        {
-            Context = context;
-            Entries = Context.Set<T>();
-        }
-        protected readonly DbSet<T> Entries;
-        protected readonly DbContext Context;
+        protected readonly DbSet<T> entries;
+        protected readonly DbContext context;
         protected readonly DbSet<T> _ant;
-    
         public IQueryable<T> GetAll()
         
             {
-                return Entries.AsQueryable();
+                return entries.AsQueryable();
             }
 
         public T Get(int idd)
         {
-            return Entries.Find(idd);
+            return entries.Find(idd);
         }
 
         public T Add(T nazv)
         {
-            return Entries.Add(nazv);
+            return entries.Add(nazv);
         }
 
         public void Delete(T nazv)
         {
 
-            Entries.Remove(nazv);
+            entries.Remove(nazv);
         }
 
         public void Update(T nazv)
         {
-            Context.Entry(nazv).State = EntityState.Modified;
+            context.Entry(nazv).State = EntityState.Modified;
         }
 
         public void Save()
         {
-            Context.SaveChanges();
+            context.SaveChanges();
         }
 
 
