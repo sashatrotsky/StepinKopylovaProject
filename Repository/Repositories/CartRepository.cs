@@ -12,7 +12,7 @@ namespace Repository.Repositories
     public class CartRepository : RepositoryBase<Cart>, ICartRepository
     {
 
-        public CartRepository(DbContext context)
+        public CartRepository(DbContext context) : base(context)
         {
         }
 
