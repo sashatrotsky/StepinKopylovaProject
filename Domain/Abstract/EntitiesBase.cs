@@ -8,13 +8,11 @@ using Domain.Entities;
 
 namespace Domain.Abstract
 {
-   abstract class BaseEntities <T> where T : class
+   public abstract class EntitiesBase
     {
-        public int idd { get; set; }
+        public int Id { get; set; }
         
-        public T nazv { get; set; }
-
-        protected readonly DbContext _context;
+        public string nazv { get; set; }
 
 
     }

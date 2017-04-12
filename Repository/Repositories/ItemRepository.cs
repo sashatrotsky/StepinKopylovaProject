@@ -11,7 +11,7 @@ namespace Repository.Repositories
     public class ItemRepository : RepositoryBase<Item>, IItemRepository
     {
 
-        public ItemRepository(DbContext context)
+        public ItemRepository(DbContext context) : base(context)
         {
         }
 
