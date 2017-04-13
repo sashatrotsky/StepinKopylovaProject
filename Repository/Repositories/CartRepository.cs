@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using Domain.Abstract;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Domain.Entities;
+﻿using Domain.Entities;
 using System.Data.Entity;
+using Repository.Base;
+using Repository.IRepositories;
 
 namespace Repository.Repositories
 {

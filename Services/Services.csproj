@@ -44,14 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entity\ItemEntity.cs" />
-    <Compile Include="Entity\UserEntity.cs" />
     <Compile Include="IService\IItemService.cs" />
     <Compile Include="IService\IUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Entity\AllEntity.cs" />
-    <Compile Include="Service\ItemService.cs" />
-    <Compile Include="Service\UserService.cs" />
+    <Compile Include="Base\ServiceBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj">

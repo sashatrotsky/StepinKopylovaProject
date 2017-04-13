@@ -1,4 +1,5 @@
 ﻿using Domain.Entities;
+using Services.Base;
 using Services.Entity;
 using System;
 using System.Collections.Generic;
@@ -8,15 +9,10 @@ using System.Threading.Tasks;
 
 namespace Services.IService
 {
-   public interface IItemService
+    public interface IItemService: IServiceBase<Item>
     {
 
-            IEnumerable<ItemEntity> GetAll();
-            void Add(ItemEntity item);
-            void Update(ItemEntity item);
-            void Delete(Item nazv);
-        }
     }
+}
 
-}
-}
+
