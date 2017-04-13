@@ -15,7 +15,7 @@ namespace Repository.Base
 
     }
 
-    public abstract class RepositoryBase<T> where T : EntitiesBase
+    public abstract class RepositoryBase<T> where T : class
     {
         protected RepositoryBase(DbContext context)
         {

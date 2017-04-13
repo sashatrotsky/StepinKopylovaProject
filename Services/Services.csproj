@@ -44,10 +44,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IService\ICartService.cs" />
     <Compile Include="IService\IItemService.cs" />
+    <Compile Include="IService\IOrderService.cs" />
     <Compile Include="IService\IUserService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Base\ServiceBase.cs" />
+    <Compile Include="ServiceClasses\CartService.cs" />
+    <Compile Include="ServiceClasses\ItemService.cs" />
+    <Compile Include="ServiceClasses\OrderService.cs" />
+    <Compile Include="ServiceClasses\UserService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj">
@@ -62,6 +68,7 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
-using Repository.Base;
 using System.Data.Entity;
+using Repository.Base;
+using Repository.IRepositories;
 
 namespace Repository.Repositories
 {
@@ -12,5 +13,4 @@ namespace Repository.Repositories
         }
 
     }
-
 }

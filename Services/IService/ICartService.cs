@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Services.IService
 {
-    public interface IItemService: IServiceBase<Item>
+    public interface ICartService : IServiceBase<Cart>
     {
     }
 }

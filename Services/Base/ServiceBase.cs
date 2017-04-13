@@ -10,14 +10,14 @@ namespace Services.Base
     {
 
         IEnumerable<T> GetAll();
-        T Get(int id);
-        void Add(T item);
-        void Update(T item);
-        void Delete(int id);
+        T Get(int idd);
+        void Add(T nazv);
+        void Update(T nazv);
+        void Delete(T nazv);
     }
-    public class ServiceBase<T> where T : EntitiesBase
+    public class ServiceBase<T> where T : class
     {
-        private IRepositoryBase<T> bd;
+        public IRepositoryBase<T> bd;
 
         public ServiceBase(IRepositoryBase<T> repository)
         {
@@ -44,9 +44,9 @@ namespace Services.Base
             bd.Delete(nazv);
         }
 
-        public void Update(T item)
+        public void Update(T nazv)
         {
-            bd.Update(item);
+            bd.Update(nazv);
         }
 
         public void Save()
